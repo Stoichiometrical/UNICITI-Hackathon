@@ -1,8 +1,4 @@
-# UNICITI Hackathon
- This is the repository containing al the notebooks and scripts that will be used for the Uniciti hackathon
- 
- ### The Dataset
- # Appliances Energy Prediction Dataset
+# Appliances Energy Prediction Dataset
 
 This dataset contains measurements of energy consumption in a house over a period of time, along with weather-related features such as temperature and humidity. The goal is to predict the energy consumption of appliances in the house based on these features.
 
@@ -43,4 +39,3 @@ This dataset is from the [UCI Machine Learning Repository](https://archive-beta.
 ## License
 
 This dataset is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-
